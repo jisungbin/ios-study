@@ -1,5 +1,5 @@
-# iOS-Study
-iOS 공부할거야!!
+# ios-study
+ios 공부할거야!!
 
 -----
 
