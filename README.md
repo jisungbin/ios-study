@@ -1,5 +1,7 @@
-# ios-study
+# ios-study 
 ios 공부할거야!!
+
+> [android 공부할거야!](https://github.com/sungbin5304/android-study)
 
 -----
 
