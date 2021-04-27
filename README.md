@@ -9,13 +9,13 @@ ios 공부할거야!
 2. - [ ] Combine
 3. - [ ] 옵저버 패턴
 4. - [ ] 델리게이트 패턴
-5. - [ ] SwiftUI
+5. - [x] SwiftUI
 6. - [ ] GCD
-7. - [ ] ocoaPods
+7. - [x] CocoaPods
 8. - [ ] Alamofire
 9. - [ ] IoC
 10. - [ ] SwifterSwift
 11. - [x] [Closer](https://devxoul.gitbooks.io/ios-with-swift-in-40-hours/content/Chapter-3/functions-and-closures.html)
 12. - [ ] xib
 13. - [ ] uikit
-14. - [ ] Xcode
+14. - [x] Xcode
