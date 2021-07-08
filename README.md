@@ -18,4 +18,6 @@ ios 공부할거야!
 11. - [ ] [Closer](https://devxoul.gitbooks.io/ios-with-swift-in-40-hours/content/Chapter-3/functions-and-closures.html) (복습 필요)
 12. - [ ] xib
 13. - [ ] uikit
-14. - [x] Xcode
+14. - [ ] Xcode
+15. - [ ] swift는 activity 개념이 없는거야???
+16. - [ ] 그럼 뷰 간에 데이터 전달은 어떻게 해???
